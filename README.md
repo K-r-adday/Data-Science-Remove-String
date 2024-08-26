@@ -1,4 +1,4 @@
-# data-science-remove-string-
+# data-science-remove-string
 a simple python code to remove string from big data file 
 
 Usage: 
